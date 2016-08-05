@@ -1,0 +1,22 @@
+{
+  "name": "nconf_issue",
+  "version": "1.0.0",
+  "description": "This is a repo I created to demonstrate a problem I have with nconf. Maybe I just don't know how to use it properly.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolasPelletier/Nconf_Issue.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NicolasPelletier/Nconf_Issue/issues"
+  },
+  "homepage": "https://github.com/NicolasPelletier/Nconf_Issue#readme",
+  "dependencies": {
+    "nconf": "^0.8.4"
+  }
+}
